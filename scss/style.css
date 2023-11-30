@@ -144,7 +144,7 @@ input {
   outline: none;
 }
 
-.shorter {
+.shorter-1 {
   width: 188px;
   height: 70px;
   flex-shrink: 0;
